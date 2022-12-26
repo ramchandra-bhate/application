@@ -1,2 +1,3 @@
 This is File B
 This is for test
+Adding a new line
